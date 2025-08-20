@@ -1,2 +1,4 @@
 Hello World!
 I'm using Git!
+
+Version 1 with initial changes.
